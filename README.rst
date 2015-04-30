@@ -9,7 +9,8 @@ Unofficial Starbucks API.
 
 This API is written in Python.
 
-*Only supports for Starbucks Korea.*
+*working on adding features and multicountry support*
+
 
 
 Installation
